@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "LodgingBusiness",
+    "name": "uDigital Agency",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4 Nizami",
+      "addressLocality": "Baku",
+      "addressRegion": "Baki",
+      "postalCode": "1000",
+      "addressCountry": "Azerbaijan"
+    },
+    "telephone": "+994 50 962 0015",
+    "url": "https://www.jugaad.az",
+    "image": "https://jugaad.az/wp-content/uploads/2024/03/jugaadmmclogo.png",
+    "description": "Jugaad Digital Marketing, Rəqəmsal marketiniqinizi satışlarınızın artıırlması istiqmətində qısa zamanda formalaşdıracaq şirkət olaraq - SEO - SMM - ECOMMERCE - REMARKETİNG",
+    "openingHours": "Mon-Sun 09:00-19:00",
+    "amenityFeature": [
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "SEO Agency",
+        "value": "Available"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "SEO Packages",
+        "value": "Available"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Google Ads Management",
+        "value": "Available"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Social Media Advertising",
+        "value": "Available"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Social Media Marketing",
+        "value": "Available"
+      },
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Web Design",
+        "value": "Available"
+      }
+    ],
+    "hasMap": {
+      "@type": "Map",
+      "url": "https://www.google.com/maps/place/JUGAAD+Agency/@40.3688745,49.8273941,15z/data=!4m6!3m5!1s0x40307d1c373d49c7:0x1567ad0aa06c3541!8m2!3d40.3688745!4d49.8273941!16s%2Fg%2F11j0ht_4pc?entry=ttu"
+    }
+  }
